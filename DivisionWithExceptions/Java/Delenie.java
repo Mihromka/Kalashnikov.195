@@ -1,31 +1,34 @@
 package com.company;
 import java.util.Scanner;
-class Main
+public class Main
 {
     public static void main(String[] args)
     {
+        try
+        {
+            Scanner in = new Scanner(System.in);
 
-        Scanner num1 = new Scanner(System.in);
-        System.out.print("Введите первое число ");
-        double a = num1.nextDouble();
-        Scanner num2 = new Scanner(System.in);
-        System.out.print("Введите второе число ");
-        double b = num2.nextDouble();
-        double c;
-        double result = 0;
-        Scanner sc = new Scanner(System.in);
-        try {
-            c = a/b;
-            System.out.print("Результат: " + c);
-            if(b==0)
+            System.out.println("Введите первое число");
+            double num1 = in.nextDouble();
+
+            System.out.println("Введите второе число");
+            double num2 = in.nextDouble();
+
+            if(num2 == 0)
             {
-                throw new Exception(" Делить на ноль нельзя");
+             System.out.println ("Вы не можете делить на 0");
             }
+            else
+            {
 
+                double res = num1 / num2;
+                System.out.print("Результат: ");
+                System.out.println(res);
+            }
         }
         catch (Exception err)
         {
-            System.out.println(err.getMessage());
+            System.out.println("Ошибка ввода");
         }
         finally
         {
@@ -33,5 +36,6 @@ class Main
         }
 
     }
+
 
 }
