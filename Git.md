@@ -1,3 +1,20 @@
+Enumerating objects: 32, done.
+Counting objects: 100% (32/32), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (21/21), done.
+Writing objects: 100% (32/32), 49.33 MiB | 2.57 MiB/s, done.
+Total 32 (delta 5), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (5/5), done.
+remote: warning: File .vs/Project1/v16/ipch/AutoPCH/8166788c1c868b97/КОНТУР.ipch is 80.00 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: warning: File .vs/Project1/v16/ipch/AutoPCH/ea28e147d479e2a/SOURCE.ipch is 80.00 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: error: Trace: 689d46030ad6b6c617aa2dae91db589b190893fbf41b6fdb6168bfe3b7b06610
+remote: error: See http://git.io/iEPt8g for more information.
+remote: error: File Debug/opencv_world453d.dll is 117.23 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+To https://github.com/Mihromka/Mustafa.git
+ ! [remote rejected] master -> master (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/Mihromka/Mustafa.git'
+
 Репозиторий (от англ. repository — хранилище) — место, где хранятся и поддерживаются какие-либо данные. Чаще всего данные в репозитории хранятся в виде файлов, доступных для дальнейшего распространения по сети.
 
 Существуют репозитории для хранения программ, написанных на одном языке или предназначенных для одной платформы.
