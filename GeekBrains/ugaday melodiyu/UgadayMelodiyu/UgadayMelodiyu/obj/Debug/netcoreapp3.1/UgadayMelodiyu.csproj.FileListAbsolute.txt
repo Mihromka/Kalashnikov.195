@@ -1,0 +1,53 @@
+C:\Users\Администратор\Desktop\195\Калашников М\UgadayMelodiyu\UgadayMelodiyu\bin\Debug\netcoreapp3.1\UgadayMelodiyu.exe
+C:\Users\Администратор\Desktop\195\Калашников М\UgadayMelodiyu\UgadayMelodiyu\bin\Debug\netcoreapp3.1\UgadayMelodiyu.deps.json
+C:\Users\Администратор\Desktop\195\Калашников М\UgadayMelodiyu\UgadayMelodiyu\bin\Debug\netcoreapp3.1\UgadayMelodiyu.runtimeconfig.json
+C:\Users\Администратор\Desktop\195\Калашников М\UgadayMelodiyu\UgadayMelodiyu\bin\Debug\netcoreapp3.1\UgadayMelodiyu.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\195\Калашников М\UgadayMelodiyu\UgadayMelodiyu\bin\Debug\netcoreapp3.1\UgadayMelodiyu.dll
+C:\Users\Администратор\Desktop\195\Калашников М\UgadayMelodiyu\UgadayMelodiyu\bin\Debug\netcoreapp3.1\UgadayMelodiyu.pdb
+C:\Users\Администратор\Desktop\195\Калашников М\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\195\Калашников М\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\195\Калашников М\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\195\Калашников М\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\195\Калашников М\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\195\Калашников М\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\195\Калашников М\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.dll
+C:\Users\Администратор\Desktop\195\Калашников М\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.pdb
+C:\Users\Администратор\Desktop\195\Калашников М\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\195\Калашников М\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.fMain.resources
+C:\Users\Администратор\Desktop\195\Калашников М\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.Properties.Resources.resources
+C:\Users\Администратор\Desktop\195\Калашников М\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\bin\Debug\netcoreapp3.1\UgadayMelodiyu.exe
+C:\Users\Администратор\Desktop\195\Калашников М\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\bin\Debug\netcoreapp3.1\UgadayMelodiyu.deps.json
+C:\Users\Администратор\Desktop\195\Калашников М\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\bin\Debug\netcoreapp3.1\UgadayMelodiyu.runtimeconfig.json
+C:\Users\Администратор\Desktop\195\Калашников М\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\bin\Debug\netcoreapp3.1\UgadayMelodiyu.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\195\Калашников М\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\bin\Debug\netcoreapp3.1\UgadayMelodiyu.dll
+C:\Users\Администратор\Desktop\195\Калашников М\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\bin\Debug\netcoreapp3.1\UgadayMelodiyu.pdb
+C:\Users\Администратор\Desktop\195\Калашников М\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\195\Калашников М\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.fMain.resources
+C:\Users\Администратор\Desktop\195\Калашников М\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.Properties.Resources.resources
+C:\Users\Администратор\Desktop\195\Калашников М\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\195\Калашников М\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\195\Калашников М\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\195\Калашников М\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\195\Калашников М\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\195\Калашников М\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.dll
+C:\Users\Администратор\Desktop\195\Калашников М\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.pdb
+C:\Users\Администратор\Desktop\195\Калашников М\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.genruntimeconfig.cache
+J:\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\bin\Debug\netcoreapp3.1\UgadayMelodiyu.exe
+J:\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\bin\Debug\netcoreapp3.1\UgadayMelodiyu.deps.json
+J:\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\bin\Debug\netcoreapp3.1\UgadayMelodiyu.runtimeconfig.json
+J:\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\bin\Debug\netcoreapp3.1\UgadayMelodiyu.runtimeconfig.dev.json
+J:\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\bin\Debug\netcoreapp3.1\UgadayMelodiyu.dll
+J:\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\bin\Debug\netcoreapp3.1\UgadayMelodiyu.pdb
+J:\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.fMain.resources
+J:\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.Properties.Resources.resources
+J:\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.csproj.GenerateResource.cache
+J:\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.GeneratedMSBuildEditorConfig.editorconfig
+J:\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.AssemblyInfoInputs.cache
+J:\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.AssemblyInfo.cs
+J:\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.csproj.CoreCompileInputs.cache
+J:\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.dll
+J:\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.pdb
+J:\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.genruntimeconfig.cache
+J:\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.csproj.AssemblyReference.cache
+J:\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.fParam.resources
+J:\GeekBrains\Угадай мелодию\UgadayMelodiyu\UgadayMelodiyu\obj\Debug\netcoreapp3.1\UgadayMelodiyu.fGame.resources
