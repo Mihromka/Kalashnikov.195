@@ -100,7 +100,9 @@ namespace UgadayMelodiyu
             if (e.KeyData == Keys.A)
             {
                 GamePause();
-                if (MessageBox.Show("Правильный ответ?","Игрок 1",MessageBoxButtons.YesNo)==DialogResult.Yes)
+                fMessage fm = new fMessage();
+                fm.lbMessage.Text = "Игрок 1";
+                if (fm.ShowDialog() == DialogResult.Yes)
                 {
                     lbCounter1.Text = Convert.ToString(Convert.ToInt32(lbCounter1.Text) + 1);
                     MakeMusic();
@@ -110,13 +112,27 @@ namespace UgadayMelodiyu
             if (e.KeyData == Keys.L)
             {
                 GamePause();
-                if (MessageBox.Show("Правильный ответ?", "Игрок 2", MessageBoxButtons.YesNo) == DialogResult.Yes)
+                fMessage fm = new fMessage();
+                fm.lbMessage.Text = "Игрок 2";
+                if (fm.ShowDialog() == DialogResult.Yes)
                 {
                     lbCounter2.Text = Convert.ToString(Convert.ToInt32(lbCounter2.Text) + 1);
                     MakeMusic();
                 }
                 GameContinue();
             }
+        }
+
+        private void WMP_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void WMP_OpenStateChange(object sender, AxWMPLib._WMPOCXEvents_OpenStateChangeEvent e)
+        {
+            if (Victorina.randomStart)
+                if (WMP.openState == WMPLib.WMPOpenState.wmposMediaOpen)
+                    WMP.Ctlcontrols.currentPosition = rnd.Next(0, (int)WMP.currentMedia.duration / 2);
         }
     }
 }

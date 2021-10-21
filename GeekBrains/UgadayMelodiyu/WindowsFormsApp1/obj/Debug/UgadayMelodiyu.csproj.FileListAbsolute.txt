@@ -65,3 +65,5 @@ J:\GeekBrains\Угадай мелодию\UgadayMelodiyu\WindowsFormsApp1\obj\De
 J:\GeekBrains\Угадай мелодию\UgadayMelodiyu\WindowsFormsApp1\obj\Debug\UgadayMelodiyu.csproj.CoreCompileInputs.cache
 J:\GeekBrains\Угадай мелодию\UgadayMelodiyu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 J:\GeekBrains\Угадай мелодию\UgadayMelodiyu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\GeekBrains\Угадай мелодию\UgadayMelodiyu\WindowsFormsApp1\obj\Debug\UgadayMelodiyu.fMessage.resources
+D:\GeekBrains\Угадай мелодию\UgadayMelodiyu\WindowsFormsApp1\bin\Debug\Resources\SoundSignal.wav
